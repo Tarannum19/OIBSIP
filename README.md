@@ -4,6 +4,8 @@
 
 [Technology Badges]
 
+## 📊 Data Science Internship Projects
+
 ---
 
 ## 📖 About
