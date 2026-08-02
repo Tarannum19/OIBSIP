@@ -1,105 +1,44 @@
 <h1 align="center">🚀 Oasis Infobyte Data Science Internship</h1>
 
 <p align="center">
-Machine Learning & Data Science projects completed during the Oasis Infobyte Internship.
+Data Science & Machine Learning Projects completed during the Oasis Infobyte Internship.
 </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-green?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Projects;Python+Developer;Data+Science+Intern;Always+Learning+New+Things"/>
 
 </p>
 
 ---
 
-# 📌 Projects
+## 🏆 Badges
 
-<table>
+<p align="center">
 
-<tr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge)
 
-<td width="50%">
-
-## 🌸 Iris Flower Classification
-
-Predict the species of Iris flowers using Machine Learning.
-
-### Algorithms
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-
-### Libraries
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-
-📂 **Notebook:**  
-`OIBSIP_Iris_Flower_Classification.ipynb`
-
-</td>
-
-<td width="50%">
-
-## 📈 Sales Prediction
-
-Predict product sales using advertising data.
-
-### Algorithms
-- Linear Regression
-- Random Forest Regressor
-
-### Libraries
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-
-📂 **Notebook:**  
-`Sales_Prediction.ipynb`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2">
-
-## 📧 Email Spam Detection
-
-Detect whether an SMS or Email is Spam or Ham.
-
-### Algorithms
-- Multinomial Naive Bayes
-- Logistic Regression
-
-### Techniques
-- Text Cleaning
-- Stopword Removal
-- TF-IDF Vectorization
-- WordCloud
-
-📂 **Notebook:**  
-`Email_Spam_Detection_ML.ipynb`
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-# 🛠 Technologies Used
+# 📂 Projects
+
+| Project | Description | Algorithms |
+|---------|-------------|------------|
+| 🌸 Iris Flower Classification | Predict Iris flower species | Logistic Regression, KNN |
+| 📈 Sales Prediction | Predict product sales | Linear Regression, Random Forest |
+| 📧 Email Spam Detection | Detect Spam or Ham messages | Naive Bayes, Logistic Regression |
+
+---
+
+# 🛠 Technologies
 
 - Python
 - Jupyter Notebook
@@ -113,17 +52,39 @@ Detect whether an SMS or Email is Spam or Ham.
 
 ---
 
-# 📊 Machine Learning Algorithms
+# 📊 GitHub Statistics
 
-| Project | Algorithms |
-|---------|------------|
-| Iris Flower Classification | Logistic Regression, KNN |
-| Sales Prediction | Linear Regression, Random Forest |
-| Email Spam Detection | Multinomial Naive Bayes, Logistic Regression |
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarannum19&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarannum19&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📂 Repository Structure
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tarannum19&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarannum19&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📁 Repository Structure
 
 ```
 Oasis-Infobyte-Data-Science
@@ -138,14 +99,20 @@ Oasis-Infobyte-Data-Science
 
 # 👩‍💻 Author
 
-**Tarannum Mohammad Nadaf**
+### Tarannum Mohammad Nadaf
 
 🎓 B.Sc Computer Science Student
 
-💻 Passionate about Machine Learning & Data Science
+💻 Aspiring Data Scientist & Machine Learning Engineer
 
-GitHub: https://github.com/Tarannum19
+🌱 Currently learning Deep Learning & AI
+
+🔗 GitHub: https://github.com/Tarannum19
 
 ---
 
-⭐ If you found this repository useful, don't forget to **Star** it.
+<p align="center">
+
+### ⭐ If you like this repository, don't forget to Star it! ⭐
+
+</p>
