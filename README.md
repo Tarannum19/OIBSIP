@@ -136,16 +136,20 @@ Oasis-Infobyte-Data-Science
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 About Me
 
-**Tarannum Mohammad Nadaf**
+Hi, I'm **Tarannum Mohammad Nadaf**.
 
-🎓 B.Sc Computer Science Student
+🎓 Final Year B.Sc. Computer Science Student
 
-💻 Passionate about Machine Learning & Data Science
+💻 Interested in Data Science, Machine Learning, Artificial Intelligence, and Python Development.
 
-GitHub: https://github.com/Tarannum19
+📚 Completed academic projects in Machine Learning and Data Science.
+
+🌱 Currently expanding my knowledge through hands-on projects and preparing for software and data science roles.
+
+🔗 GitHub: https://github.com/Tarannum19
 
 ---
 
-⭐ If you found this repository useful, don't forget to **Star** it.
+⭐ If you found this repository useful, consider giving it a Star!l, don't forget to **Star** it.
