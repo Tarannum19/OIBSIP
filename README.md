@@ -1,30 +1,30 @@
 <h1 align="center">🚀 Oasis Infobyte Data Science Internship</h1>
 
 <p align="center">
-Data Science & Machine Learning Projects completed during the Oasis Infobyte Internship.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+Data+Science+Projects!;Python+%7C+Machine+Learning+%7C+Data+Science;Built+during+Oasis+Infobyte+Internship;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Projects;Python+Developer;Data+Science+Intern;Always+Learning+New+Things"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 Badges
+# 📖 About
 
-<p align="center">
+This repository contains the **Machine Learning and Data Science projects** completed during my **Oasis Infobyte Internship**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099cc?style=for-the-badge)
-
-</p>
+Each project includes:
+- 📊 Data Analysis
+- 🤖 Machine Learning Models
+- 📈 Data Visualization
+- 📑 Performance Evaluation
+- 🎯 Predictions
 
 ---
 
@@ -33,12 +33,12 @@ Data Science & Machine Learning Projects completed during the Oasis Infobyte Int
 | Project | Description | Algorithms |
 |---------|-------------|------------|
 | 🌸 Iris Flower Classification | Predict Iris flower species | Logistic Regression, KNN |
-| 📈 Sales Prediction | Predict product sales | Linear Regression, Random Forest |
+| 📈 Sales Prediction | Predict sales using advertising data | Linear Regression, Random Forest |
 | 📧 Email Spam Detection | Detect Spam or Ham messages | Naive Bayes, Logistic Regression |
 
 ---
 
-# 🛠 Technologies
+# 🛠 Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -52,7 +52,7 @@ Data Science & Machine Learning Projects completed during the Oasis Infobyte Int
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -67,9 +67,7 @@ Data Science & Machine Learning Projects completed during the Oasis Infobyte Int
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Tarannum19&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -77,9 +75,7 @@ Data Science & Machine Learning Projects completed during the Oasis Infobyte Int
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarannum19&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -89,10 +85,10 @@ Data Science & Machine Learning Projects completed during the Oasis Infobyte Int
 ```
 Oasis-Infobyte-Data-Science
 │
-├── OIBSIP_Iris_Flower_Classification.ipynb
-├── Sales_Prediction.ipynb
-├── Email_Spam_Detection_ML.ipynb
-└── README.md
+├── 📄 OIBSIP_Iris_Flower_Classification.ipynb
+├── 📄 Sales_Prediction.ipynb
+├── 📄 Email_Spam_Detection_ML.ipynb
+└── 📄 README.md
 ```
 
 ---
@@ -101,11 +97,11 @@ Oasis-Infobyte-Data-Science
 
 ### Tarannum Mohammad Nadaf
 
-🎓 B.Sc Computer Science Student
+🎓 B.Sc. Computer Science Student
 
-💻 Aspiring Data Scientist & Machine Learning Engineer
+💻 Aspiring Data Scientist & Machine Learning Enthusiast
 
-🌱 Currently learning Deep Learning & AI
+🌱 Currently learning AI, Machine Learning & Deep Learning
 
 🔗 GitHub: https://github.com/Tarannum19
 
@@ -113,6 +109,6 @@ Oasis-Infobyte-Data-Science
 
 <p align="center">
 
-### ⭐ If you like this repository, don't forget to Star it! ⭐
+⭐ **If you found this repository helpful, please give it a Star!** ⭐
 
 </p>
