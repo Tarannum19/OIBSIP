@@ -1,44 +1,28 @@
-<h1 align="center">🚀 Oasis Infobyte Data Science Internship</h1>
+# 🚀 Oasis Infobyte Data Science Internship
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+Data+Science+Projects!;Python+%7C+Machine+Learning+%7C+Data+Science;Built+during+Oasis+Infobyte+Internship;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-</p>
+[Animated Typing Header]
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-</p>
+[Technology Badges]
 
 ---
 
-# 📖 About
+## 📖 About
 
-This repository contains the **Machine Learning and Data Science projects** completed during my **Oasis Infobyte Internship**.
-
-Each project includes:
-- 📊 Data Analysis
-- 🤖 Machine Learning Models
-- 📈 Data Visualization
-- 📑 Performance Evaluation
-- 🎯 Predictions
+This repository contains the Machine Learning and Data Science projects completed during my Oasis Infobyte Internship.
 
 ---
 
-# 📂 Projects
+## 📂 Projects
 
 | Project | Description | Algorithms |
 |---------|-------------|------------|
 | 🌸 Iris Flower Classification | Predict Iris flower species | Logistic Regression, KNN |
 | 📈 Sales Prediction | Predict sales using advertising data | Linear Regression, Random Forest |
-| 📧 Email Spam Detection | Detect Spam or Ham messages | Naive Bayes, Logistic Regression |
+| 📧 Email Spam Detection | Detect spam or ham messages | Naive Bayes, Logistic Regression |
 
 ---
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -52,59 +36,33 @@ Each project includes:
 
 ---
 
-# 📊 GitHub Stats
+## 📁 Repository Structure
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarannum19&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarannum19&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Tarannum19&theme=tokyonight"/>
-</p>
-
----
-
-
-
----
-
-# 📁 Repository Structure
-
-```
+```text
 Oasis-Infobyte-Data-Science
 │
-├── 📄 OIBSIP_Iris_Flower_Classification.ipynb
-├── 📄 Sales_Prediction.ipynb
-├── 📄 Email_Spam_Detection_ML.ipynb
-└── 📄 README.md
+├── OIBSIP_Iris_Flower_Classification.ipynb
+├── Sales_Prediction.ipynb
+├── Email_Spam_Detection_ML.ipynb
+└── README.md
 ```
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 About Me
 
-### Tarannum Mohammad Nadaf
+Hi, I'm **Tarannum Mohammad Nadaf**.
 
-🎓 B.Sc. Computer Science Student
+🎓 Final Year B.Sc. Computer Science Student
 
-💻 Aspiring Data Scientist & Machine Learning Enthusiast
+💻 Interested in Data Science, Machine Learning, Artificial Intelligence, and Python Development.
 
-🌱 Currently learning AI, Machine Learning & Deep Learning
+📚 Completed academic projects in Machine Learning and Data Science.
+
+🌱 Currently expanding my knowledge through hands-on projects and preparing for software and data science roles.
 
 🔗 GitHub: https://github.com/Tarannum19
 
 ---
 
-<p align="center">
-
-⭐ **If you found this repository helpful, please give it a Star!** ⭐
-
-</p>
+⭐ If you found this repository useful, consider giving it a Star!
