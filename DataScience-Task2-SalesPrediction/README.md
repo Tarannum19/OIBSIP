@@ -8,16 +8,16 @@
 
 ## 📌 Project Overview
 
-This project predicts product sales using advertising expenditure data with Machine Learning regression algorithms.
+This project predicts product sales using advertising expenditure data and Machine Learning regression algorithms.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze advertising data
-- Build regression models
+- Analyze advertising dataset
+- Train regression models
 - Compare model performance
-- Predict future sales
+- Predict sales values
 
 ---
 
@@ -48,13 +48,20 @@ This project predicts product sales using advertising expenditure data with Mach
 
 ## 📈 Results
 
-✔️ Built accurate sales prediction models using regression techniques.
+✔️ Successfully predicted product sales with high accuracy.
 
 ---
 
-## Outputs
+## 📷 Outputs
+
+### Correlation Graph
+
+![Graph](graph.png)
+
+### Dataset Preview
 
 ![Output 1](output1.png)
 
-![Output 2](output2.png)
+### Prediction Result
 
+![Output 2](output2.png)
