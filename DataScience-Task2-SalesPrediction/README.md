@@ -1,4 +1,4 @@
-# 📈 Sales Prediction using Machine Learning
+<img width="1477" height="1027" alt="image" src="https://github.com/user-attachments/assets/5db23703-b603-4e82-9536-909efb4b7f96" /># 📈 Sales Prediction using Machine Learning
 
 > **Track:** Data Science  
 > **Organization:** Oasis Infobyte  
@@ -72,6 +72,7 @@ This project predicts product sales using advertising expenditure data and Machi
 
 Thank you for visiting this project.
 
-If you found this project helpful, feel free to ⭐ star this repository and explore my other projects.
+If you found this project helpful, feel free to ⭐ star this repository and explore other projects in this repository.
+
 
 Happy Coding! 🚀
