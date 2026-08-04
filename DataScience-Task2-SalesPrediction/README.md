@@ -1,4 +1,3 @@
-<img width="1477" height="1027" alt="image" src="https://github.com/user-attachments/assets/5db23703-b603-4e82-9536-909efb4b7f96" /># 📈 Sales Prediction using Machine Learning
 
 > **Track:** Data Science  
 > **Organization:** Oasis Infobyte  
