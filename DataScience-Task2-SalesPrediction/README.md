@@ -52,7 +52,13 @@ This project predicts product sales using advertising expenditure data with Mach
 
 ---
 
-## 👩‍💻 Author
+## Outputs
 
-**Tarannum Mohammad Nadaf**
+![Output 1](output1.png)
 
+![Output 2](output2.png)
+
+![Output 3](output3.png)
+
+### Word Cloud
+![Word Cloud](wordcloud.png)
