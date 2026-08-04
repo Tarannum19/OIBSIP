@@ -58,7 +58,3 @@ This project predicts product sales using advertising expenditure data with Mach
 
 ![Output 2](output2.png)
 
-![Output 3](output3.png)
-
-### Word Cloud
-![Word Cloud](wordcloud.png)
