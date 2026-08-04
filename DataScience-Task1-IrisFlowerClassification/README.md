@@ -1,84 +1,67 @@
 # 🌸 Iris Flower Classification
 
-> A Machine Learning project to classify Iris flowers into different species using classification algorithms.
+> **Track:** Data Science  
+> **Organization:** Oasis Infobyte  
+> **Task:** Iris Flower Classification
 
 ---
 
-## 📋 Project Information
+## 📌 Project Overview
 
-| Item | Details |
-|------|---------|
-| 👩‍💻 Author | Tarannum Mohammad Nadaf |
-| 🏢 Organization | Oasis Infobyte |
-| 🎯 Track | Data Science |
-| 📚 Task | Iris Flower Classification |
+This project predicts the species of Iris flowers using Machine Learning classification algorithms based on flower measurements.
 
 ---
 
-## 📖 About Project
+## 🎯 Objectives
 
-The goal of this project is to classify Iris flowers into three different species based on their measurements.
-
-### 🌼 Classes
-
-- Setosa
-- Versicolor
-- Virginica
+- Analyze the Iris dataset
+- Train classification models
+- Compare model performance
+- Predict the flower species
 
 ---
 
-## ⚙️ Technologies
+## 🛠️ Technologies Used
 
-- 🐍 Python
-- 📊 Pandas
-- 🔢 NumPy
-- 📉 Matplotlib
-- 🎨 Seaborn
-- 🤖 Scikit-learn
-- 📒 Jupyter Notebook
-
----
-
-## 🧠 Machine Learning Models
-
-✅ Logistic Regression
-
-✅ K-Nearest Neighbors (KNN)
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ---
 
-## 📂 Project Files
+## 🤖 Machine Learning Algorithms
 
-```
-01_OIBSIP_Iris_Flower_Classification.ipynb
-```
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
 
 ---
 
-# 📸 Output Screenshots
+## 📂 Files
 
-## 📈 Pair Plot
+- `01_OIBSIP_Iris_Flower_Classification.ipynb`
+
+---
+
+## 📈 Results
+
+✔️ Successfully classified Iris flower species with high accuracy.
+
+---
+
+## 📷 Outputs
+
+### Pair Plot
 
 ![Pair Plot](graph.png)
 
----
+### Dataset Preview
 
-## 📊 Dataset Preview
+![Output 1](output1.png)
 
-![Dataset](output1.png)
+### Prediction Result
 
----
-
-## 🎯 Prediction
-
-![Prediction](output2.png)
-
----
-
-## ✅ Result
-
-✔ Successfully classified Iris flowers with high accuracy.
-
----
-
-## ⭐ Thank You
+![Output 2](output2.png)
