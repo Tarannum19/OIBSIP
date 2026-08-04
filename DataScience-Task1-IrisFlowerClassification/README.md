@@ -1,54 +1,84 @@
 # 🌸 Iris Flower Classification
 
-> **Track:** Data Science  
-> **Organization:** Oasis Infobyte  
-> **Task:** Iris Flower Classification
+> A Machine Learning project to classify Iris flowers into different species using classification algorithms.
 
 ---
 
-## 📌 Project Overview
+## 📋 Project Information
 
-This project predicts the species of Iris flowers using Machine Learning classification algorithms based on flower measurements.
-
----
-
-## 🎯 Objectives
-
-- Analyze the Iris dataset
-- Train classification models
-- Compare model performance
-- Predict the flower species
+| Item | Details |
+|------|---------|
+| 👩‍💻 Author | Tarannum Mohammad Nadaf |
+| 🏢 Organization | Oasis Infobyte |
+| 🎯 Track | Data Science |
+| 📚 Task | Iris Flower Classification |
 
 ---
 
-## 🛠️ Technologies Used
+## 📖 About Project
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+The goal of this project is to classify Iris flowers into three different species based on their measurements.
 
----
+### 🌼 Classes
 
-## 🤖 Machine Learning Algorithms
-
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
+- Setosa
+- Versicolor
+- Virginica
 
 ---
 
-## 📂 Files
+## ⚙️ Technologies
 
-- `01_OIBSIP_Iris_Flower_Classification.ipynb`
+- 🐍 Python
+- 📊 Pandas
+- 🔢 NumPy
+- 📉 Matplotlib
+- 🎨 Seaborn
+- 🤖 Scikit-learn
+- 📒 Jupyter Notebook
 
 ---
 
-## 📈 Results
+## 🧠 Machine Learning Models
 
-✔️ Successfully classified Iris flower species.
+✅ Logistic Regression
+
+✅ K-Nearest Neighbors (KNN)
 
 ---
 
+## 📂 Project Files
+
+```
+01_OIBSIP_Iris_Flower_Classification.ipynb
+```
+
+---
+
+# 📸 Output Screenshots
+
+## 📈 Pair Plot
+
+![Pair Plot](graph.png)
+
+---
+
+## 📊 Dataset Preview
+
+![Dataset](output1.png)
+
+---
+
+## 🎯 Prediction
+
+![Prediction](output2.png)
+
+---
+
+## ✅ Result
+
+✔ Successfully classified Iris flowers with high accuracy.
+
+---
+
+## ⭐ Thank You
