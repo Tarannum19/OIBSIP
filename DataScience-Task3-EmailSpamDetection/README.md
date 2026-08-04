@@ -78,6 +78,5 @@ This project classifies emails as Spam or Ham using Natural Language Processing 
 
 Thank you for visiting this project.
 
-If you found this project helpful, feel free to ⭐ star this repository and explore my other projects.
-
+If you found this project helpful, feel free to ⭐ star this repository and explore other projects in this repository.
 Happy Coding! 🚀
