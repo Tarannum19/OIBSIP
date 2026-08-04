@@ -74,7 +74,7 @@ This project classifies emails as Spam or Ham using Natural Language Processing 
 
 ---
 
-##😊 Thank You
+## 😊 Thank You
 
 Thank you for visiting this project.
 
