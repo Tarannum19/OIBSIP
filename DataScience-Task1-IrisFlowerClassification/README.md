@@ -65,3 +65,13 @@ This project predicts the species of Iris flowers using Machine Learning classif
 ### Prediction Result
 
 ![Output 2](output2.png)
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting this project.
+
+If you found this project helpful, feel free to ⭐ star this repository and explore my other projects.
+
+Happy Coding! 🚀
