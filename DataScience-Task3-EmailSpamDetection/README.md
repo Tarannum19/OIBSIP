@@ -54,7 +54,13 @@ This project classifies email and SMS messages as **Spam** or **Ham** using Natu
 
 ---
 
-## 👩‍💻 Author
+## Outputs
 
-**Tarannum Mohammad Nadaf**
+![Output 1](output1.png)
 
+![Output 2](output2.png)
+
+![Output 3](output3.png)
+
+### Word Cloud
+![Word Cloud](wordcloud.png)
