@@ -8,16 +8,16 @@
 
 ## 📌 Project Overview
 
-This project classifies email and SMS messages as **Spam** or **Ham** using Natural Language Processing (NLP) and Machine Learning techniques.
+This project classifies emails as Spam or Ham using Natural Language Processing and Machine Learning algorithms.
 
 ---
 
 ## 🎯 Objectives
 
-- Clean and preprocess text data
-- Convert text into numerical features using TF-IDF
+- Analyze email dataset
+- Preprocess text data
 - Train classification models
-- Predict spam messages
+- Detect spam emails accurately
 
 ---
 
@@ -26,11 +26,11 @@ This project classifies email and SMS messages as **Spam** or **Ham** using Natu
 - Python
 - Pandas
 - NumPy
-- NLTK
-- WordCloud
 - Matplotlib
 - Seaborn
+- NLTK
 - Scikit-learn
+- TF-IDF Vectorizer
 - Jupyter Notebook
 
 ---
@@ -50,17 +50,34 @@ This project classifies email and SMS messages as **Spam** or **Ham** using Natu
 
 ## 📈 Results
 
-✔️ Successfully classified spam and ham messages with high accuracy using Machine Learning.
+✔️ Successfully classified Spam and Ham emails with high accuracy.
 
 ---
 
-## Outputs
+## 📷 Outputs
+
+### Dataset Preview
 
 ![Output 1](output1.png)
 
+### Prediction Result
+
 ![Output 2](output2.png)
+
+### Model Performance
 
 ![Output 3](output3.png)
 
 ### Word Cloud
+
 ![Word Cloud](wordcloud.png)
+
+---
+
+##😊 Thank You
+
+Thank you for visiting this project.
+
+If you found this project helpful, feel free to ⭐ star this repository and explore my other projects.
+
+Happy Coding! 🚀
