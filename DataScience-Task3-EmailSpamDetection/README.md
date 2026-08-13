@@ -54,25 +54,6 @@ This project classifies emails as Spam or Ham using Natural Language Processing 
 
 ---
 
-## 📷 Outputs
-
-### Dataset Preview
-
-![Output 1](output1.png)
-
-### Prediction Result
-
-![Output 2](output2.png)
-
-### Model Performance
-
-![Output 3](output3.png)
-
-### Word Cloud
-
-![Word Cloud](wordcloud.png)
-
----
 
 ## 😊 Thank You
 
