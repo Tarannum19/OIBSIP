@@ -52,21 +52,6 @@ This project predicts product sales using advertising expenditure data and Machi
 
 ---
 
-## 📷 Outputs
-
-### Correlation Graph
-
-![Graph](graph.png)
-
-### Dataset Preview
-
-![Output 1](output1.png)
-
-### Prediction Result
-
-![Output 2](output2.png)
-
----
 
 ## 😊 Thank You
 
