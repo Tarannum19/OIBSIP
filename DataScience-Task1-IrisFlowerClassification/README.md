@@ -52,21 +52,6 @@ This project predicts the species of Iris flowers using Machine Learning classif
 
 ---
 
-## 📷 Outputs
-
-### Pair Plot
-
-![Pair Plot](graph.png)
-
-### Dataset Preview
-
-![Output 1](output1.png)
-
-### Prediction Result
-
-![Output 2](output2.png)
-
----
 
 ## 😊 Thank You
 
